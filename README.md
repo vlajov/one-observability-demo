@@ -1,3 +1,13 @@
+
+# AWS One Observability Demo
+
+This fork is part of my hands-on exploration of AWS observability and monitoring concepts. I deployed the full demo stack to:
+
+- Practice provisioning infrastructure with AWS CloudFormation
+- Explore monitoring and observability with Amazon CloudWatch, AWS X-Ray, OpenTelemetry, Amazon Managed Prometheus, and Grafana
+- Review containerized microservice telemetry across metrics, logs, and traces
+
+--------------------------------------------ORIGINAL README--------------------------------------------------------------------------------------------
 ## One Observability Demo
 
 This repo contains a sample application which is used in the One Observability Demo workshop here - https://observability.workshop.aws/
